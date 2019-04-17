@@ -1,0 +1,7 @@
+C:\Users\Beep\documents\visual studio 2010\Projects\Cronómetro\Cronómetro\bin\Debug\Cronómetro.exe
+C:\Users\Beep\documents\visual studio 2010\Projects\Cronómetro\Cronómetro\bin\Debug\Cronómetro.pdb
+C:\Users\Beep\documents\visual studio 2010\Projects\Cronómetro\Cronómetro\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Beep\documents\visual studio 2010\Projects\Cronómetro\Cronómetro\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Beep\documents\visual studio 2010\Projects\Cronómetro\Cronómetro\obj\x86\Debug\Cronómetro.csproj.GenerateResource.Cache
+C:\Users\Beep\documents\visual studio 2010\Projects\Cronómetro\Cronómetro\obj\x86\Debug\Cronómetro.exe
+C:\Users\Beep\documents\visual studio 2010\Projects\Cronómetro\Cronómetro\obj\x86\Debug\Cronómetro.pdb

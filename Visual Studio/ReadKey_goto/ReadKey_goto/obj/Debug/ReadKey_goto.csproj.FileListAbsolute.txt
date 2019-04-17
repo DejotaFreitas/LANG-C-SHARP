@@ -1,0 +1,5 @@
+D:\zzProjects\C#\ReadKey_goto\ReadKey_goto\bin\Debug\ReadKey_goto.exe.config
+D:\zzProjects\C#\ReadKey_goto\ReadKey_goto\bin\Debug\ReadKey_goto.exe
+D:\zzProjects\C#\ReadKey_goto\ReadKey_goto\bin\Debug\ReadKey_goto.pdb
+D:\zzProjects\C#\ReadKey_goto\ReadKey_goto\obj\Debug\ReadKey_goto.exe
+D:\zzProjects\C#\ReadKey_goto\ReadKey_goto\obj\Debug\ReadKey_goto.pdb

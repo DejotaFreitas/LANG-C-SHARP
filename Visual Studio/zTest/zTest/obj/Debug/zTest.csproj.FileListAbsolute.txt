@@ -1,0 +1,6 @@
+D:\zzProjects\C#\zTest\zTest\bin\Debug\zTest.exe.config
+D:\zzProjects\C#\zTest\zTest\bin\Debug\zTest.exe
+D:\zzProjects\C#\zTest\zTest\bin\Debug\zTest.pdb
+D:\zzProjects\C#\zTest\zTest\obj\Debug\zTest.csprojResolveAssemblyReference.cache
+D:\zzProjects\C#\zTest\zTest\obj\Debug\zTest.exe
+D:\zzProjects\C#\zTest\zTest\obj\Debug\zTest.pdb

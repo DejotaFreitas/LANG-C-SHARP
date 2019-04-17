@@ -1,0 +1,5 @@
+D:\zzProjects\C#\Visual Studio\PiramideLitt\PiramideLitt\bin\Debug\PiramideLitt.exe.config
+D:\zzProjects\C#\Visual Studio\PiramideLitt\PiramideLitt\bin\Debug\PiramideLitt.exe
+D:\zzProjects\C#\Visual Studio\PiramideLitt\PiramideLitt\bin\Debug\PiramideLitt.pdb
+D:\zzProjects\C#\Visual Studio\PiramideLitt\PiramideLitt\obj\Debug\PiramideLitt.exe
+D:\zzProjects\C#\Visual Studio\PiramideLitt\PiramideLitt\obj\Debug\PiramideLitt.pdb

@@ -1,0 +1,18 @@
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\bin\Debug\DejotaDuelGame.exe.config
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\bin\Debug\DejotaDuelGame.exe
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\bin\Debug\DejotaDuelGame.pdb
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\JanelaCombate.g.cs
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\MainWindow.g.cs
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\App.g.cs
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame_MarkupCompile.cache
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame_MarkupCompile.lref
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\JanelaCombate.baml
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\MainWindow.baml
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.g.resources
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.Properties.Resources.resources
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.csproj.GenerateResource.Cache
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.exe
+D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.pdb
+D:\zzProjects\C#\DejotaDuelGame\DejotaDuelGame\bin\Debug\DejotaDuelGame.exe.config
+D:\zzProjects\C#\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.exe
+D:\zzProjects\C#\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.pdb

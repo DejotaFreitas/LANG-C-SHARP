@@ -1,0 +1,9 @@
+D:\zzProjects\C#\EditorTexto\EditorTexto\bin\Debug\EditorTexto.exe.config
+D:\zzProjects\C#\EditorTexto\EditorTexto\bin\Debug\EditorTexto.exe
+D:\zzProjects\C#\EditorTexto\EditorTexto\bin\Debug\EditorTexto.pdb
+D:\zzProjects\C#\EditorTexto\EditorTexto\obj\Debug\EditorTexto.csprojResolveAssemblyReference.cache
+D:\zzProjects\C#\EditorTexto\EditorTexto\obj\Debug\EditorTexto.Form1.resources
+D:\zzProjects\C#\EditorTexto\EditorTexto\obj\Debug\EditorTexto.Properties.Resources.resources
+D:\zzProjects\C#\EditorTexto\EditorTexto\obj\Debug\EditorTexto.csproj.GenerateResource.Cache
+D:\zzProjects\C#\EditorTexto\EditorTexto\obj\Debug\EditorTexto.exe
+D:\zzProjects\C#\EditorTexto\EditorTexto\obj\Debug\EditorTexto.pdb

@@ -1,0 +1,15 @@
+D:\zzProjects\C#\Visual Studio\MetodosGetSet\MetodosGetSet\bin\Debug\MetodosGetSet.exe.config
+D:\zzProjects\C#\Visual Studio\MetodosGetSet\MetodosGetSet\bin\Debug\MetodosGetSet.exe
+D:\zzProjects\C#\Visual Studio\MetodosGetSet\MetodosGetSet\bin\Debug\MetodosGetSet.pdb
+D:\zzProjects\C#\Visual Studio\MetodosGetSet\MetodosGetSet\obj\Debug\MetodosGetSet.csprojResolveAssemblyReference.cache
+D:\zzProjects\C#\Visual Studio\MetodosGetSet\MetodosGetSet\obj\Debug\MetodosGetSet.exe
+D:\zzProjects\C#\Visual Studio\MetodosGetSet\MetodosGetSet\obj\Debug\MetodosGetSet.pdb
+D:\zzProjects\C#\000 -Visual Studio\MetodosGetSet\MetodosGetSet\bin\Debug\MetodosGetSet.exe.config
+D:\zzProjects\C#\000 -Visual Studio\MetodosGetSet\MetodosGetSet\obj\Debug\MetodosGetSet.exe
+D:\zzProjects\C#\000 -Visual Studio\MetodosGetSet\MetodosGetSet\obj\Debug\MetodosGetSet.pdb
+D:\zzProjects\C#\000 -Visual Studio\MetodosGetSet\MetodosGetSet\obj\Debug\MetodosGetSet.csprojResolveAssemblyReference.cache
+D:\zzProjects\C#\000 -Visual Studio\MetodosGetSet\MetodosGetSet\bin\Debug\MetodosGetSet.exe
+D:\zzProjects\C#\000 -Visual Studio\MetodosGetSet\MetodosGetSet\bin\Debug\MetodosGetSet.pdb
+D:\zzProjects\C#\MetodosGetSet\MetodosGetSet\bin\Debug\MetodosGetSet.exe.config
+D:\zzProjects\C#\MetodosGetSet\MetodosGetSet\obj\Debug\MetodosGetSet.exe
+D:\zzProjects\C#\MetodosGetSet\MetodosGetSet\obj\Debug\MetodosGetSet.pdb

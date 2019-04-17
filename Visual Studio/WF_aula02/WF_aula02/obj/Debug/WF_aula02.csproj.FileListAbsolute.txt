@@ -1,0 +1,9 @@
+D:\zzProjects\C#\Visual Studio\WF_aula02\WF_aula02\bin\Debug\WF_aula02.exe.config
+D:\zzProjects\C#\Visual Studio\WF_aula02\WF_aula02\bin\Debug\WF_aula02.exe
+D:\zzProjects\C#\Visual Studio\WF_aula02\WF_aula02\bin\Debug\WF_aula02.pdb
+D:\zzProjects\C#\Visual Studio\WF_aula02\WF_aula02\obj\Debug\WF_aula02.csprojResolveAssemblyReference.cache
+D:\zzProjects\C#\Visual Studio\WF_aula02\WF_aula02\obj\Debug\WF_aula02.Form1.resources
+D:\zzProjects\C#\Visual Studio\WF_aula02\WF_aula02\obj\Debug\WF_aula02.Properties.Resources.resources
+D:\zzProjects\C#\Visual Studio\WF_aula02\WF_aula02\obj\Debug\WF_aula02.csproj.GenerateResource.Cache
+D:\zzProjects\C#\Visual Studio\WF_aula02\WF_aula02\obj\Debug\WF_aula02.exe
+D:\zzProjects\C#\Visual Studio\WF_aula02\WF_aula02\obj\Debug\WF_aula02.pdb

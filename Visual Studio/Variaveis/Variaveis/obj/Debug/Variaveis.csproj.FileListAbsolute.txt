@@ -1,0 +1,6 @@
+D:\zzProjects\C#\Visual Studio\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+D:\zzProjects\C#\Visual Studio\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+D:\zzProjects\C#\Visual Studio\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+D:\zzProjects\C#\Visual Studio\Variaveis\Variaveis\obj\Debug\Variaveis.csprojResolveAssemblyReference.cache
+D:\zzProjects\C#\Visual Studio\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+D:\zzProjects\C#\Visual Studio\Variaveis\Variaveis\obj\Debug\Variaveis.pdb

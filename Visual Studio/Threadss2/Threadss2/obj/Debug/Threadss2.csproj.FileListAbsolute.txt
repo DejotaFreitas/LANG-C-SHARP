@@ -1,0 +1,5 @@
+D:\zzProjects\C#\Visual Studio\Threadss2\Threadss2\bin\Debug\Threadss2.exe.config
+D:\zzProjects\C#\Visual Studio\Threadss2\Threadss2\bin\Debug\Threadss2.exe
+D:\zzProjects\C#\Visual Studio\Threadss2\Threadss2\bin\Debug\Threadss2.pdb
+D:\zzProjects\C#\Visual Studio\Threadss2\Threadss2\obj\Debug\Threadss2.exe
+D:\zzProjects\C#\Visual Studio\Threadss2\Threadss2\obj\Debug\Threadss2.pdb

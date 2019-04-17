@@ -1,0 +1,9 @@
+D:\zEclipse\C#\Execercicio\Execercicio\bin\Debug\Execercicio.exe.config
+D:\zEclipse\C#\Execercicio\Execercicio\bin\Debug\Execercicio.exe
+D:\zEclipse\C#\Execercicio\Execercicio\bin\Debug\Execercicio.pdb
+D:\zEclipse\C#\Execercicio\Execercicio\obj\Debug\Execercicio.csprojResolveAssemblyReference.cache
+D:\zEclipse\C#\Execercicio\Execercicio\obj\Debug\Execercicio.exe
+D:\zEclipse\C#\Execercicio\Execercicio\obj\Debug\Execercicio.pdb
+D:\zzProjects\C#\Visual Studio\Execercicio\Execercicio\bin\Debug\Execercicio.exe.config
+D:\zzProjects\C#\Visual Studio\Execercicio\Execercicio\obj\Debug\Execercicio.exe
+D:\zzProjects\C#\Visual Studio\Execercicio\Execercicio\obj\Debug\Execercicio.pdb

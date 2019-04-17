@@ -1,0 +1,31 @@
+﻿<Window x:Name="JanelaDeCombate" x:Class="DejotaGame.JanelaCombate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DejotaGame"
+        mc:Ignorable="d"
+        Title="Janela de Combate" Height="383.898" Width="525" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Closing="JanelaDeCombate_Closing" Closed="JanelaDeCombate_Closed">
+    <Grid Margin="1,0,-1,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="58*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="169*"/>
+            <ColumnDefinition Width="178*"/>
+            <ColumnDefinition Width="172*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="image_char01Combate" HorizontalAlignment="Left" Height="280" Margin="10,63,0,0" VerticalAlignment="Top" Width="175" Stretch="Fill" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Image x:Name="image_char02Combate" HorizontalAlignment="Left" Height="280" Margin="161,63,0,0" VerticalAlignment="Top" Width="179" Stretch="Fill" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label x:Name="lbl_fight" HorizontalContentAlignment="Center" Content="X" HorizontalAlignment="Left" Margin="21,-13,0,0" VerticalAlignment="Top" FontFamily="Viner Hand ITC" FontSize="66.667" FontWeight="Bold" Grid.Column="1" Width="135" Grid.RowSpan="2"/>
+        <Label x:Name="lbl_vidaJogador01Combate" x:FieldModifier="public" HorizontalContentAlignment="Left" Content="90" HorizontalAlignment="Left" Margin="16,-9,0,0" VerticalAlignment="Top" FontFamily="Viner Hand ITC" FontSize="53.333" FontWeight="Bold" RenderTransformOrigin="1.494,0.482" Width="143" Height="78" Foreground="Lime" Grid.RowSpan="2"/>
+        <Label x:Name="lbl_NomeJogador01Combate" x:FieldModifier="public" HorizontalContentAlignment="Center" Content="Noob01" HorizontalAlignment="Left" Margin="10,227.308,0,0" VerticalAlignment="Top" FontFamily="Viner Hand ITC" FontSize="26.667" FontWeight="Bold" Width="159" Foreground="Blue" Grid.Row="1" TextOptions.TextFormattingMode="Display"/>
+        <Label x:Name="lbl_NomeJogador02Combate" x:FieldModifier="public" HorizontalContentAlignment="Center" Content="Noob02" HorizontalAlignment="Left" Margin="0,225.308,0,0" VerticalAlignment="Top" FontFamily="Viner Hand ITC" FontSize="26.667" FontWeight="Bold" Width="162" Grid.Column="2" Foreground="Blue" Grid.Row="1" TextOptions.TextFormattingMode="Display"/>
+        <Label x:Name="lbl_danoJogador01Combate" x:FieldModifier="public" HorizontalContentAlignment="Center" Content="..." HorizontalAlignment="Left" Margin="89,-2,0,0" VerticalAlignment="Top" FontFamily="Viner Hand ITC" FontSize="46.667" FontWeight="Bold" RenderTransformOrigin="1.494,0.482" Width="141" Height="82" Foreground="Red" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label x:Name="lbl_danoJogador02Combate" x:FieldModifier="public" HorizontalContentAlignment="Center" Content="..." HorizontalAlignment="Left" Margin="112,0,0,0" VerticalAlignment="Top" FontFamily="Viner Hand ITC" FontSize="46.667" FontWeight="Bold" RenderTransformOrigin="1.494,0.482" Width="143" Height="82" Foreground="Red" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label x:Name="lbl_vidaJogador02Combate" x:FieldModifier="public" HorizontalContentAlignment="Right" Content="90" HorizontalAlignment="Left" Margin="0,-9,0,0" VerticalAlignment="Top" FontFamily="Viner Hand ITC" FontSize="53.333" FontWeight="Bold" RenderTransformOrigin="1.494,0.482" Width="148" Height="78" Grid.Column="2" Foreground="Lime" Grid.RowSpan="2"/>
+        <ListBox x:Name="listBox_combateLog" x:FieldModifier="public" Grid.Column="1" HorizontalAlignment="Left" Height="282" Margin="5,63,0,0" VerticalAlignment="Top" Width="168" IsSynchronizedWithCurrentItem="True" AllowDrop="True" Grid.RowSpan="2"/>
+
+    </Grid>
+</Window>
