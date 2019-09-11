@@ -16,3 +16,20 @@ D:\zzProjects\C#\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDue
 D:\zzProjects\C#\DejotaDuelGame\DejotaDuelGame\bin\Debug\DejotaDuelGame.exe.config
 D:\zzProjects\C#\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.exe
 D:\zzProjects\C#\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.pdb
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\bin\Debug\DejotaDuelGame.exe.config
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\bin\Debug\DejotaDuelGame.exe
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\bin\Debug\DejotaDuelGame.pdb
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.csprojAssemblyReference.cache
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\JanelaCombate.g.cs
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\MainWindow.g.cs
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\App.g.cs
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame_MarkupCompile.cache
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame_MarkupCompile.lref
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\JanelaCombate.baml
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\MainWindow.baml
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.g.resources
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.Properties.Resources.resources
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.csproj.GenerateResource.cache
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.csproj.CoreCompileInputs.cache
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.exe
+C:\zGitHub\LANG-C-SHARP\Visual Studio\DejotaDuelGame\DejotaDuelGame\obj\Debug\DejotaDuelGame.pdb
