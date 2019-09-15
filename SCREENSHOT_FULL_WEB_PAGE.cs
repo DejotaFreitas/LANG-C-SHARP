@@ -9,9 +9,6 @@ using WDSE;
 using WDSE.Decorators;
 using WDSE.ScreenshotMaker;
 
-// Nuget install: selenium e driver dos browser ultilizado
-// Nuget install: Noksa = percorre a tela tirando prints e salva array de bytes
-// Nuget install: iTextSharp = converter img pdf
 namespace Screenshot_Capture
 {
     public partial class Form1 : Form
